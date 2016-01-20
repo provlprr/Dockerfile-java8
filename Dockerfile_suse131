@@ -18,5 +18,5 @@ RUN \
   java -version
 
 
-ENV JAVA_HOME=/usr/java/jdk1.8.u40
+ENV JAVA_HOME=/usr/lib64/jvm/java-1.8.0-openjdk-1.8.0
 CMD ["bash"]
